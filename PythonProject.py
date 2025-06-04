@@ -1,6 +1,6 @@
 from scapy.all import rdpcap
 
-pcap = '/Users/evanvelazquez/Downloads/extracting-objects-from-pcap-example-01.pcap'
+pcap = 'Your File path'
 
 # Load packets from the PCAP file #
 packets = rdpcap(pcap)
